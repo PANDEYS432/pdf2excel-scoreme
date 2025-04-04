@@ -1,0 +1,11 @@
+pymupdf             
+pandas              
+openpyxl  
+numpy       
+pytesseract 
+pillow    
+pdfplumber
+img2table
+pdfminer.six 
+scikit-learn
+ocrmypdf
